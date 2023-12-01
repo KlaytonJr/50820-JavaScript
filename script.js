@@ -27,29 +27,29 @@ console.log(anoNascimento)
 
 // prompt, console e alert
 
-// var meuNome = prompt("Digite seu nome completo:");
+var meuNome = prompt("Digite seu nome completo:");
 
-// console.log(meuNome)
-// console.warn(meuNome)
-// console.error(meuNome)
+console.log(meuNome)
+console.warn(meuNome)
+console.error(meuNome)
 
-// console.table(["apples", "oranges", "bananas"]);
+console.table(["apples", "oranges", "bananas"]);
 
-// alert("Você foi sorteado para ganhar 100 mil reais!")
+alert("Você foi sorteado para ganhar 100 mil reais!")
 
 // parseInt e parseFloat
 
-// var idadeDigitada = prompt("Digite sua idade:");
-// var pesoDigitado = prompt("Digite seu peso:");
+var idadeDigitada = prompt("Digite sua idade:");
+var pesoDigitado = prompt("Digite seu peso:");
 
-// var modificada = pesoDigitado.replace(",", ".")
+var modificada = pesoDigitado.replace(",", ".")
 
-// var idadeInteiro = parseInt(idadeDigitada);
-// var pesoReal = parseFloat(modificada);
+var idadeInteiro = parseInt(idadeDigitada);
+var pesoReal = parseFloat(modificada);
 
-// console.log(+idadeDigitada)
-// console.log(idadeInteiro)
-// console.log(pesoReal)
+console.log(+idadeDigitada)
+console.log(idadeInteiro)
+console.log(pesoReal)
 // alt + shift + seta (cima ou baixo)
 
 // Prática 3
